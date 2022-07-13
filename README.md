@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working at [Primary.com](https://primary.com)
 
-- 🌱 I’m currently learning **Next.js, Vue 3, TailwindCSS**
-
 - 💬 Ask me about **React, Vue, Rails**
 
 - 📫 How to reach me **coreypsoinos@gmail.com**
