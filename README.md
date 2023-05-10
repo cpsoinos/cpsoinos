@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/coreypsoinos" target="blank"><img src="https://img.shields.io/twitter/follow/coreypsoinos?logo=twitter&style=for-the-badge" alt="coreypsoinos" /></a> </p>
 
-- 🔭 I’m currently working at [Primary.com](https://primary.com)
+- 🔭 I’m currently working at [Flowcode](https://www.flowcode.com)
 
 - 💬 Ask me about **React, Vue, Rails**
 
