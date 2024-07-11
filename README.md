@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cpsoinos" alt="cpsoinos" /></a> </p>
 
-- 🔭 I’m currently working at [Flowcode](https://www.flowcode.com)
-
 - 💬 Ask me about **React, Svelte, Vue, Rails**
 
 - 📫 How to reach me **coreypsoinos@gmail.com**
