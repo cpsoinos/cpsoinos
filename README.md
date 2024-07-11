@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cpsoinos" alt="cpsoinos" /></a> </p>
 
-- 💬 Ask me about **React, Svelte, Vue, Rails**
+- View my [resume](https://portfolio.anderapps.com/resume?utm_source=github&utm_medium=social)
 
-- 📫 How to reach me **coreypsoinos@gmail.com**
-
-- 😄 Pronouns: he/him
-
-- ⚡ Fun fact **I have two pups! Connor and Flash. They're my partners in crime 😎**
+- Pronouns: he/him
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpsoinos&show_icons=true&locale=en" alt="cpsoinos" /></p>
 
